@@ -28,7 +28,7 @@ class AppConf(object):
     LOGIN_API_LIMITER_STR = '500/hour;60/minute'
 
     # Domain
-    HOST_DOMAIN = 'mockingbird-dev.tangees.com'
+    HOST_DOMAIN = ''
     OSS_DOMAIN = ''
 
     # Blueprint switch
@@ -56,11 +56,6 @@ class MongoConf(object):
     PWD = ''
     IS_REPLICA = False
     REPLICA = ''
-
-
-class EsConf(object):
-    """Config of elasticsearch"""
-    HOSTS = 'localhost:9200'
 
 
 class CeleryConf(object):
