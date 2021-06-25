@@ -6,10 +6,6 @@
     
     Description of this file
     
-    :author: Zhidong :)
-    :copyright: (c) 2018, Tungee
-    :date created: 2018-03-20
-    
 """
 from pymongo import MongoClient
 

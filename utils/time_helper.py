@@ -4,12 +4,6 @@
     time_helper.py
     ~~~~~~~~~~~~~~~~~~~~~~~
     
-    Description of this file
-    
-    :author: Zhidong :)
-    :copyright: (c) 2018, Tungee
-    :date created: 2018-03-20
-    
 """
 import time
 from datetime import datetime, timedelta

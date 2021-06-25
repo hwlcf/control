@@ -6,11 +6,6 @@
     
     App start point. Run python server to start app
     
-    :author: Zhidong
-    :copyright: (c) 2016, Tungee
-    :date created: 2017-05-24
-    :python version: 2.7
-    
 """
 from gevent import monkey
 # Monkey patch to support coroutine
